@@ -59,3 +59,19 @@ The structure may evolve as I learn new topics.
 This repository is a work in progress and will be updated regularly as I solve new problems and learn new concepts.
 
 > **Learn → Practice → Analyze → Improve**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Rishiii26/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Rishiii26/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Rishiii26/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+<!---LeetCode Topics End-->
