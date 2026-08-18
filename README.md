@@ -76,4 +76,16 @@ This repository is a work in progress and will be updated regularly as I solve n
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rishiii26/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/Rishiii26/DSA/tree/main/0383-ransom-note/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/Rishiii26/DSA/tree/main/0383-ransom-note/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/Rishiii26/DSA/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
