@@ -67,6 +67,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rishiii26/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishiii26/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rishiii26/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Rishiii26/DSA/tree/main/0383-ransom-note/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rishiii26/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +90,8 @@ This repository is a work in progress and will be updated regularly as I solve n
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Rishiii26/DSA/tree/main/0383-ransom-note/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rishiii26/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
