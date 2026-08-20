@@ -85,6 +85,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Rishiii26/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0383-ransom-note](https://github.com/Rishiii26/DSA/tree/main/0383-ransom-note/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
