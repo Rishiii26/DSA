@@ -102,4 +102,8 @@ This repository is a work in progress and will be updated regularly as I solve n
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rishiii26/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0507-perfect-number](https://github.com/Rishiii26/DSA/tree/main/0507-perfect-number/) | Easy |
 <!---LeetCode Topics End-->
