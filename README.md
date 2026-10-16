@@ -96,6 +96,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 | [0125-valid-palindrome](https://github.com/Rishiii26/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Rishiii26/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Rishiii26/DSA/tree/main/0383-ransom-note/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Rishiii26/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Rishiii26/DSA/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/Rishiii26/DSA/tree/main/0507-perfect-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Rishiii26/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +137,8 @@ This repository is a work in progress and will be updated regularly as I solve n
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Rishiii26/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Rishiii26/DSA/tree/main/0344-reverse-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Rishiii26/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
