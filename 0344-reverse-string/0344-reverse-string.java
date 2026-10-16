@@ -3,8 +3,8 @@ class Solution {
         int l = s.length;
         for(int i=0;i<l/2;i++){
             char temp = s[i];
-            s[i]=s[l-i-1];
-            s[l-i-1]=temp;
+            s[i]=s[l-1-i];
+            s[l-1-i]=temp;
         }
     }
 }
