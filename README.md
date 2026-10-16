@@ -93,6 +93,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/Rishiii26/DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0344-reverse-string](https://github.com/Rishiii26/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Rishiii26/DSA/tree/main/0383-ransom-note/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -128,4 +129,8 @@ This repository is a work in progress and will be updated regularly as I solve n
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Rishiii26/DSA/tree/main/0204-count-primes/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Rishiii26/DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
