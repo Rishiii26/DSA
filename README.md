@@ -88,6 +88,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishiii26/DSA/tree/main/0001-two-sum/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Rishiii26/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/Rishiii26/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rishiii26/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## String
@@ -96,6 +97,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 | [0014-longest-common-prefix](https://github.com/Rishiii26/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/Rishiii26/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rishiii26/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Rishiii26/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/Rishiii26/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Rishiii26/DSA/tree/main/0383-ransom-note/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Rishiii26/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
