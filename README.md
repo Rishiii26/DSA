@@ -100,6 +100,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 | [0205-isomorphic-strings](https://github.com/Rishiii26/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/Rishiii26/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Rishiii26/DSA/tree/main/0383-ransom-note/) | Easy |
+| [0796-rotate-string](https://github.com/Rishiii26/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Rishiii26/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -149,4 +150,8 @@ This repository is a work in progress and will be updated regularly as I solve n
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rishiii26/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Rishiii26/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
