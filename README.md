@@ -121,6 +121,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Rishiii26/DSA/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/Rishiii26/DSA/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Rishiii26/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Rishiii26/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -167,4 +168,16 @@ This repository is a work in progress and will be updated regularly as I solve n
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rishiii26/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rishiii26/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rishiii26/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rishiii26/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
