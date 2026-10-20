@@ -72,6 +72,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishiii26/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0204-count-primes](https://github.com/Rishiii26/DSA/tree/main/0204-count-primes/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rishiii26/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishiii26/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rishiii26/DSA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
