@@ -120,6 +120,7 @@ This repository is a work in progress and will be updated regularly as I solve n
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Rishiii26/DSA/tree/main/0204-count-primes/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/Rishiii26/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0507-perfect-number](https://github.com/Rishiii26/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Rishiii26/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Rishiii26/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -180,4 +181,8 @@ This repository is a work in progress and will be updated regularly as I solve n
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Rishiii26/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/Rishiii26/DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
